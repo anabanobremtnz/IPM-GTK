@@ -1,3 +1,4 @@
+# Aplicación GTK (API TheCocktailDB)
 # Instruccións:
 ## 1. Instalar GTK3:
 ```bat
